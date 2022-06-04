@@ -1,0 +1,9 @@
+
+.card {
+    position: relative;
+    padding-bottom: 50px;
+}
+.btn {
+    position: absolute;
+    bottom: 0;
+}
